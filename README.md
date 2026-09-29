@@ -26,7 +26,8 @@ The ESP8266 connects to a Wi-Fi network and communicates with the Sinric Pro clo
 
 Circuit Diagram
 
-<img width="920" height="697" alt="image" src="[https://github.com/user-attachments/assets/c43caa84-ac20-416c-a77b-b7a55f9227eb](https://private-user-images.githubusercontent.com/230973368/607723857-c43caa84-ac20-416c-a77b-b7a55f9227eb.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA2ODY2OTEsIm5iZiI6MTc5MDY4NjM5MSwicGF0aCI6Ii8yMzA5NzMzNjgvNjA3NzIzODU3LWM0M2NhYTg0LWFjMjAtNDE2Yy1hNzdiLWI3YTU1ZjkyMjdlYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkyOVQxMjUzMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MTk2ZjY2ZWMwNGRkM2I5MzM1MmZkZDVjMjc5ZDAyODM1NmQ4MDdiNDY3NGI1YzJmOGFlMDU2MjE1MmRkZjcyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.hCHs5O3erQ-08L9qWYB3FUYuQ7g2A9BfvSutL6-WmkA)" />
+<img width="920" height="697" alt="image" src="https://github.com/user-attachments/assets/f99a92e7-f419-4a30-9f70-b00375f925c0" />
+
 Software Requirements
 
 Arduino IDE
